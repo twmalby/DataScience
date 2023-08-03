@@ -26,6 +26,8 @@ To explore potential linear correlations among the variables, we employed Princi
 
 To delve deeper into customer satisfaction, we applied the Random Forest algorithm. Our preliminary findings suggest a noteworthy observation - customers who made online bookings appeared to be more satisfied than others. This intriguing discovery will be subject to further investigation to uncover the underlying reasons.
 
+![Dashboard](/slide2.JPG)
+
 ## Call for Collaboration
 
 We welcome contributions and insights from the GitHub community to further enhance our understanding of this dataset. Together, we can explore new perspectives and possibly unlock hidden patterns within the data.
