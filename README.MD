@@ -9,7 +9,7 @@
 ## Introduction
 
 In this GitHub repository, we present an analysis of a comprehensive dataset containing feedback from customers who have availed services from an airline company. The dataset comprises over 100,000 records, each containing 25 columns of valuable information.
-![The columns of dataset](https://github.com/twmalby/DataScience/blob/main/column.jpg)
+![The columns of dataset](https://raw.githubusercontent.com/twmalby/DataScience/main/column.jpg)
 
 ## Statistical Studies
 
