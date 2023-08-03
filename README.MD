@@ -2,13 +2,14 @@
 # Analysis of Dataset with Over 100,000 Records on Airline Service Feedback
 # Evaluating airline passenger satisfaction:
 
-# Data: Passenger characteristics, satisfaction ratings, and flight information.
+ Data: Passenger characteristics, satisfaction ratings, and flight information.
 
-# Objectives: Predict passenger satisfaction and identify key factors influencing satisfaction levels.
+ Objectives: Predict passenger satisfaction and identify key factors influencing satisfaction levels.
 
 ## Introduction
 
 In this GitHub repository, we present an analysis of a comprehensive dataset containing feedback from customers who have availed services from an airline company. The dataset comprises over 100,000 records, each containing 25 columns of valuable information.
+![The columns of dataset](column.jpg)
 
 ## Statistical Studies
 
