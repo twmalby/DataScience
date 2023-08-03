@@ -1,5 +1,10 @@
 ```markdown
 # Analysis of Dataset with Over 100,000 Records on Airline Service Feedback
+# Evaluating airline passenger satisfaction:
+
+# Data: Passenger characteristics, satisfaction ratings, and flight information.
+
+# Objectives: Predict passenger satisfaction and identify key factors influencing satisfaction levels.
 
 ## Introduction
 
