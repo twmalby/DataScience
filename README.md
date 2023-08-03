@@ -16,6 +16,8 @@ In this GitHub repository, we present an analysis of a comprehensive dataset con
 
 To gain initial insights into the dataset, we conducted basic statistical studies. We calculated percentages to understand the demographic distribution, including gender, age, and other relevant variables of the consumers.
 
+![Column Image](/slide1.jpg)
+
 ## PCA and Covariance Matrix Analysis
 
 To explore potential linear correlations among the variables, we employed Principal Component Analysis (PCA) and covariance matrix analysis. Surprisingly, our analysis did not reveal any significant linear correlations, highlighting the complexity of the dataset.
